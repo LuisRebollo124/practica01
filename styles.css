@@ -1,0 +1,31 @@
+header{
+    height: 100px;
+    width: max-content;
+}
+
+.titulo{
+    margin-left: 550px;
+    margin-top: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: xx-large;
+}
+
+#Menu{
+    text-align: center;
+    width: 200px ;
+    height: auto;
+}
+
+div{
+    width: 110px ;
+}
+
+.miniatura{
+    width: 150px;
+    height: 180px;
+    filter: grayscale(100%);
+}
+
+.miniatura:hover{
+    filter: grayscale(0%);
+}
