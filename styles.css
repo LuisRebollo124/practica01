@@ -70,10 +70,22 @@ header{
     height: 570px;
 }
 
-.titlo_c{
+.titulo_c{
     font-family: 'Montserrat', sans-serif;
     font-size: xxx-large;
     margin-top:250px;
+}
+.precio_c{
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+}
+.descripcion_c{
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+}
+.fecha_c{
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
 }
 
 #Boton{
