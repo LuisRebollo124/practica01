@@ -1,8 +1,9 @@
 # Portfolio Práctica1
-Para hacer la página web de los cuadros de Velázquez, he dividido la estructura en 4 divs principalmente, el titulo o cabecera, el menu de las imagenes para seleccionar el cuadro que quisieramos ver, el propio cuadro y la zona donde se encontraba la explicación de cada cuadro, precio, año y tamaño.
 
 ## HTML
 Para el HTML no hay mucho que explicar, unicamente la estructura que dependia de las imagenes y de las clases o ids para que conectara con CSS y JS, también para que funcionaran los tipos de letras he tenido que añadir unos links, y dos scripts, uno para CSS y otro para JS
+, la página web de los cuadros de Velázquez, he dividido la estructura en 4 divs principalmente, el titulo o cabecera, el menu de las imagenes para seleccionar el cuadro que quisieramos ver, el propio cuadro y la zona donde se encontraba la explicación de cada cuadro, precio, año y tamaño.
+
 ```
     <link rel="stylesheet" href="styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
