@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+img{
+    width: 820px;
+}
+
+.cerrar{
+    margin-left: 1400px;
+    margin-top: -670px;
+}
+
+button{
+    background-color: black;
+    color: azure;
+}
+
+.inocencio{
+    width: 510px;
+    height: 670px;
+}
+
+.meninas{
+    width: 510px;
+    height: 670px;
+}
+
+.venus{
+    width: 700px;
+    height: 670px;
+}
+
+.vulcano{
+    width: 700px;
+    height: 670px;
+}
